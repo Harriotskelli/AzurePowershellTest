@@ -27,6 +27,8 @@ This is a script to achive these goals in Microsoft Azure using Powershell
   Run the script in powershell then you will be able to run all the listed commands as needed.
   
   If you are not running in the Cloud Shell then you will need to run the az login command first
+  
+  In the Cloud Shell you can run commands as . ./AzureInterface.ps1; command [parameters]
    
   #Functions#
   
